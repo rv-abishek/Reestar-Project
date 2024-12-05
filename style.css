@@ -1,0 +1,106 @@
+
+.one
+{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.one:hover
+{
+ color: rgb(90, 49, 178);
+}
+.two__pr:hover,.two__ch:hover,.two__fi:hover,.two__gr:hover
+{
+    transform: scale(1.1);
+}
+.one__nav
+{
+    padding-bottom: 5px;
+}
+.one__title
+{
+    padding-top: 5px;
+}
+.two__pr
+{
+   display: inline-block;
+   width: 200px;
+   padding-bottom: 10px;
+   border: solid black 2px;
+}
+.two__ch
+{
+   display: inline-block;
+   width: 200px;
+   padding-bottom: 10px;
+   border: solid black 2px;
+   margin-left: 10px;
+}
+
+.two__fi
+{
+   display: inline-block;
+   width: 200px;
+   padding-bottom: 10px;
+   border: solid black 2px;
+   margin-left: 10px;
+}
+
+.two__gr
+{
+   display: inline-block;
+   width: 200px;
+   padding-bottom: 10px;
+   border: solid black 2px;
+   margin-left: 10px;
+}
+button:hover
+{
+    color: rgb(225, 41, 13);
+}
+button
+{
+    background-color: black;
+    color: white;
+    border: none;
+    border: solid black 2px;
+    border-radius: 2px;
+}
+p,h5
+{
+    padding: 0;
+    margin: 0;
+}
+.three
+{
+    margin:10px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+
+}
+.three__button
+{
+    background-color: yellow;
+    display: inline-block;
+    border: 0;
+    color: black;
+    width: 400px;
+    padding-left: 100;
+}
+.three__title
+{
+    padding-top: 10px ;
+    margin-bottom: 5px;
+    padding-left: 40px;
+    margin-top: 5px;
+}
+.two
+{
+    margin-bottom: 30px;
+}
+
